@@ -70,8 +70,8 @@ The dashboard is designed to display:
 
 ### Dashboard Preview
 
-![Dashboard](images/dashboard.png)
-
+![Dashboard](images/Picture2.png)
+![Dashboard](images/Picture3.png)
 ## My Contribution
 
 As the Project Group Leader, my contributions include:
