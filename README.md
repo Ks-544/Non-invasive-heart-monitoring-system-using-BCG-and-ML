@@ -17,7 +17,7 @@ The system applies signal processing and a Random Forest machine-learning model 
 
 ## System Architecture
 
-![System Architecture](images/picture1.png)
+![System Architecture](images/Picture1.png)
 
 **Signal Flow:**
 
